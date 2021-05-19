@@ -1,1 +1,1 @@
-# tnw-magazine
+# This is a replica of thenextweb.com. I am practicing Responsive Design with Media Queries. I am also practicing a mobile first design approach.
